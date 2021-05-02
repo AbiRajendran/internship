@@ -1,0 +1,29 @@
+  
+.sample1
+{
+display: inline;
+color:rgb(255, 0, 98);
+}
+.sample2
+{
+display: block;
+color:rgb(255, 0, 191);
+}
+
+#hello
+{
+    display:flex;
+    background-color: rgb(243, 29, 13);
+    padding:3rem;
+      
+}
+.col1{
+    padding:15%;
+}
+.col2{
+    padding:15%;
+}
+h1{
+    display:grid;
+    place-items: center;
+}

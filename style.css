@@ -1,0 +1,39 @@
+  
+#Introduction{
+    background: rgb(65, 65, 65);
+}
+
+.container
+{
+    height: 100vh;
+    background-color: rgb(2, 10, 12);
+    margin:auto;
+    width: 110%;
+    padding:4rem;
+    display:flex;
+}
+#trailor
+{
+    background-color:rgb(182, 255, 210);
+    height:10vh;
+    display: grid;
+    place-items: center;
+    min-width: auto;
+   
+}
+.col1,.col2,.col3{
+    margin:auto;
+}
+.col3
+{
+    background-color: rgb(201, 56, 56);
+    width=10%;
+}
+h1{
+    display:grid;
+    place-items: center;
+}
+p{
+    min-width: 5%;
+
+}
